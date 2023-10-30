@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'ada-moodle-4'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_82511047124A40A996BFABCAAE56DB92 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C96C29351BF49A0AF4AC86B15068175 }}
           package: .
